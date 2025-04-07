@@ -1,0 +1,1 @@
+\sqrt{\frac{\sqrt{2} + \sqrt{3}}{\sqrt{5} - x}}

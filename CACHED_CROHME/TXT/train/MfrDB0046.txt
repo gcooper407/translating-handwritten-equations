@@ -1,0 +1,1 @@
+{e^{- 2 \pi i \alpha}} = \cos \alpha - i \cdot \sin \alpha

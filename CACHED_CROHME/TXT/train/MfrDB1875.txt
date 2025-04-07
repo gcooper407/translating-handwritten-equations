@@ -1,0 +1,1 @@
+F_{g} = k \cdot \frac{m \cdot M_{z}}{{r^{2}}}

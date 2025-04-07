@@ -1,0 +1,1 @@
+v_{p} = \sqrt{\frac{2 k M_{z}}{R_{z} + h}} = \sqrt{2} v_{k}

@@ -1,0 +1,1 @@
+\frac{{A^{2}} - {B^{3}} + {C^{4}}}{\int\limits_{0}^{\infty} ( A + B + C ) dx}

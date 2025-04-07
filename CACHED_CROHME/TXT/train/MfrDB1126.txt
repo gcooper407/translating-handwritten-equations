@@ -1,0 +1,1 @@
+\sqrt[3]{\sqrt{\frac{n - 1}{n - 2}}}

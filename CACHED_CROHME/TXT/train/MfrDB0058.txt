@@ -1,0 +1,1 @@
+\frac{g ( c ) - g ( a )}{c - a} - \frac{g ( b ) - g ( a )}{b - a} \gt 0

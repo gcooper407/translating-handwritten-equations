@@ -1,0 +1,1 @@
+f ( a , b , c ) = - \frac{n b}{a + c}
