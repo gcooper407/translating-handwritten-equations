@@ -1,0 +1,1 @@
+\sum_k f_k=\sum_k h_k=1

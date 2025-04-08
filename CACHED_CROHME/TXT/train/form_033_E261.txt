@@ -1,0 +1,1 @@
+dz+Nxdy =d(z-Ny)+N(x+1)dy

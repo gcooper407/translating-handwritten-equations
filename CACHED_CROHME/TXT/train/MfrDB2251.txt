@@ -1,0 +1,1 @@
+\frac{d}{d t} P ( t ) = P ( t ) \cdot ( 1 - P ( t ) )

@@ -1,0 +1,1 @@
+x_2 = \sin\theta \sin\phi

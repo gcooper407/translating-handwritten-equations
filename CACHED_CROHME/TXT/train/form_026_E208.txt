@@ -1,0 +1,1 @@
+a_n=\frac{a_n}{\sqrt{n}}

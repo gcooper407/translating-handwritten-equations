@@ -1,0 +1,1 @@
+L^{-1}\int_{-\infty}^{+\infty} |\phi_n(x,t)|^2dx=1

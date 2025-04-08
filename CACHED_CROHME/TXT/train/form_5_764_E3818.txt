@@ -1,0 +1,1 @@
+F^{10}=\frac{1}{2a} \left(\frac{\theta^2B_0}{b^2}\right)^\frac{1}{3}

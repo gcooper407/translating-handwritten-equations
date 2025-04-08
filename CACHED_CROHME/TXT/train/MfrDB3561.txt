@@ -1,0 +1,1 @@
+\sqrt{x y z} = \sqrt{x} \sqrt{y} \sqrt{z}

@@ -1,0 +1,1 @@
+\int_{-\infty}^{+\infty}\alpha^{2n+1}e^{-\alpha^2}{\frac {d \alpha}{\sqrt{\pi}}}=0

@@ -1,0 +1,1 @@
+\left[\sin(\pi j)\right]^{-1}

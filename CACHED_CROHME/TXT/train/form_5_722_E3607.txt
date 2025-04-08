@@ -1,0 +1,1 @@
+\sin^2 {\Delta\theta}/{2}=\frac {1}{2}(1-\cos\Delta\theta)

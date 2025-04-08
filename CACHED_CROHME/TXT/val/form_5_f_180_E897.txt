@@ -1,0 +1,1 @@
+S_{0}=2\pi\sqrt{\frac{c}{6}(N-\frac{c}{24})}

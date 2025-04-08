@@ -1,0 +1,1 @@
+z^{-n}e^{-\frac{m}{z}}+\ldots

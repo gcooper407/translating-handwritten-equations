@@ -1,0 +1,1 @@
+\frac{g}{3!} \sum_{ijk} c_{ijk} a_i a_j a_k

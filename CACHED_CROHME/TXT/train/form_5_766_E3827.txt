@@ -1,0 +1,1 @@
+A(y) = a_m y^m + (1/2)a_{mn} y^m y^n +\ldots

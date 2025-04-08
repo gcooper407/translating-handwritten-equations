@@ -1,0 +1,1 @@
+F(u)+F(u^{\prime})+NF(u)F(u^{\prime}) + F(u)F(u+u^{\prime})F(u^{\prime}) - F(u+u^{\prime}) = 0

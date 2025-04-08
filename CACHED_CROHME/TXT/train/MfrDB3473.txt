@@ -1,0 +1,1 @@
+\lim_{n \to \infty} \frac{n !}{\sqrt{2 \pi n} ( \frac{n}{e} )} = 1

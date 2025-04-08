@@ -1,0 +1,1 @@
+\sqrt{x} fx\in(0,a)

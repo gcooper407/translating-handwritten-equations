@@ -1,0 +1,1 @@
+\sum_{n=-\infty}^{\infty} \left( \frac{k}{2}-n \right) p^i_{k-n} p^i_n = 0

@@ -1,0 +1,1 @@
+2(1+\beta\sqrt{b})/a\beta^2

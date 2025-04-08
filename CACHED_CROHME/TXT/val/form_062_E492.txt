@@ -1,0 +1,1 @@
+f=Ce^{\frac{1}{\theta}}\left(\frac{x_1}{\sqrt{\gamma}}+i\sqrt{\gamma}x_2\right)^2

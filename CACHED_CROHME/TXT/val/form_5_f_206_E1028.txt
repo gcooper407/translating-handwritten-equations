@@ -1,0 +1,1 @@
+S_{BI} = - \int d^3 \sigma \sqrt{-det(g_{ab} + F_{ab})}

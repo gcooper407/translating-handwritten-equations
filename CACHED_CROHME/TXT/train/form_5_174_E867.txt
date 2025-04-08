@@ -1,0 +1,1 @@
+z(w)=rw+\sum_{k\geq 0}u_k z^{-k}

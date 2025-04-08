@@ -1,0 +1,1 @@
+\sigma=\frac {1}{ 4}\left(\sqrt{1+24f_c}-1\right)

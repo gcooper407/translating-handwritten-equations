@@ -1,0 +1,1 @@
+a^i =\frac{1}{\sqrt{2 m}} (p^i + i m x_0^i)

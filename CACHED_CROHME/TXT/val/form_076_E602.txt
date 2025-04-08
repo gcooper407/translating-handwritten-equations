@@ -1,0 +1,1 @@
+\alpha =\sqrt{\frac{1}{4} q_2 q_3} z^1

@@ -1,0 +1,1 @@
+x=c_1e_1+c_2e_2+\ldots c_ne_n

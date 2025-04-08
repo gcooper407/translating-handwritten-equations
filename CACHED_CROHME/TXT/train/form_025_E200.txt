@@ -1,0 +1,1 @@
+G_0=\lim_{m\rightarrow0}G

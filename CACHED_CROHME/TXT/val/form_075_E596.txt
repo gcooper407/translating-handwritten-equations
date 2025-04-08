@@ -1,0 +1,1 @@
+F(x)=x\left(1+\frac{x}{a}\right)

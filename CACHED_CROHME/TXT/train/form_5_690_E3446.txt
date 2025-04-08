@@ -1,0 +1,1 @@
+\int dx \sqrt{2m(V(x)-E)}

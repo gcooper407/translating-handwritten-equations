@@ -1,0 +1,1 @@
+\left[ (j+1)p-1 \right] \left[ (j+1)q -1 \right]

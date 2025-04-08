@@ -1,0 +1,1 @@
+n_{1}\sin\theta_{1} = n_{2}\sin\theta_{2}

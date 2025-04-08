@@ -1,0 +1,1 @@
+\phi_{\infty} = \lim_{r\rightarrow\infty} \phi(r)

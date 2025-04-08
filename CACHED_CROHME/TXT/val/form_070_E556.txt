@@ -1,0 +1,1 @@
+\cos\gamma=\cos\theta\cos\theta^{\prime}+\sin\theta\sin\theta^{\prime}\cos(\phi-\phi^{\prime})

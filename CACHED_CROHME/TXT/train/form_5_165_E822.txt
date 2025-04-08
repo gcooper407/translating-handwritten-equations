@@ -1,0 +1,1 @@
+\left(\cos \alpha z^1 + \sin\alpha z^2 \right)^N = c^N

@@ -1,0 +1,1 @@
+l_i(x-\frac{i\pi}{2})l_i(x+\frac{i\pi}{2}) =1

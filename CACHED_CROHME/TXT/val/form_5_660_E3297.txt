@@ -1,0 +1,1 @@
+2f(x) = -4(\gamma+\log 4) + b - \frac{4 B {\pi }^2 {\sqrt{1 - x}}}{{\sqrt{1 + 3 x}}}

@@ -1,0 +1,1 @@
+\frac{x^mdx}{(x-\alpha_i)P_n(x)}

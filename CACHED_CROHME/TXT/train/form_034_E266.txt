@@ -1,0 +1,1 @@
+\sum_{n=-\infty}^{\infty} \int_{-\infty}^{\infty} dt	e^{2\pi int} f(t) =	\sum_{m=-\infty}^{\infty} f(m)

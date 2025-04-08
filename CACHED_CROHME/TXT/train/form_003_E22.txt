@@ -1,0 +1,1 @@
+\frac{4\pi l}{g^2}\sqrt{v^2+V^2}

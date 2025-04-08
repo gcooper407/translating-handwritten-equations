@@ -1,0 +1,1 @@
+T\geq \frac{me}{2}\left| \int d^{2}x\left\{ M_{a}B_{a}\right\} \right|

@@ -1,0 +1,1 @@
+S=\int  ( \frac{R}{16\pi} + L_M  ) \sqrt{-g} d^4x

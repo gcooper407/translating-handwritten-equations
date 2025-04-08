@@ -1,0 +1,1 @@
+\int\limits_{0}^{\infty} f ( x ) dx = \lim_{b \to \infty} \int\limits_{0}^{b} f ( x ) dx

@@ -1,0 +1,1 @@
+R_{abcd}R^{abcd} -F_{ab}F^{ab}

@@ -1,0 +1,1 @@
+\left( {\frac{B}{A+1}} \right)^{\frac{1}{n+1}}

@@ -1,0 +1,1 @@
+\int_{0}^{+\infty} y(G(y,B_{m}d^{2})-c)dy

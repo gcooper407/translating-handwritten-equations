@@ -1,0 +1,1 @@
+A=2M\cos \frac {\pi \beta ^2}{2(1-\beta ^2)}

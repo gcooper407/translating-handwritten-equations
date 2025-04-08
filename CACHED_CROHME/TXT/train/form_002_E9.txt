@@ -1,0 +1,1 @@
+a=\sqrt{\frac{6\sqrt{3}}{5}}

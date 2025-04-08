@@ -1,0 +1,1 @@
+c=\lim_{k \rightarrow +\infty}\Delta(k)

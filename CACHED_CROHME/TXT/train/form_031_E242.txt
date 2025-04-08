@@ -1,0 +1,1 @@
+\int d^3 k \left( \frac1{k^2 - m^2}-\frac1{k^2}\right)

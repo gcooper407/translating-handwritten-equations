@@ -1,0 +1,1 @@
+G_b(x+b)=\left(1-e^{2i\pi bx}\right)G_b(x)

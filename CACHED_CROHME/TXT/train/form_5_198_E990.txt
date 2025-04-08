@@ -1,0 +1,1 @@
+u^{k} + \left( A_{1} + \frac{B_{1}}{x-x_{0}} \right) u^{k-1} + \ldots +\left( A_{k} + \frac{B_{k}}{x-x_{0}}\right) =0

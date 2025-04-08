@@ -1,0 +1,1 @@
+\lim_{k\rightarrow\infty}t_k \lt \infty

@@ -1,0 +1,1 @@
+S = \frac{1}{\sqrt{32|k|}} \frac{A}{4G}

@@ -1,0 +1,1 @@
+\beta=\frac{\pi}{4}-\frac{\theta}{2}

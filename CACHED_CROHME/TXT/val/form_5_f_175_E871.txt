@@ -1,0 +1,1 @@
+b(x)=\frac{1}{2\pi}[\frac{2}{(x+\theta)^2+1}+\frac{2}{(x-\theta)^2+1}]

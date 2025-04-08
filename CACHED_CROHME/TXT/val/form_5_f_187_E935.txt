@@ -1,0 +1,1 @@
+\sin(\theta_1+\theta_2+\theta_3)=0

@@ -1,0 +1,1 @@
+\cos(t\theta) = \frac {1}{ 2}(e^{t\theta i}+e^{-t\theta i})
