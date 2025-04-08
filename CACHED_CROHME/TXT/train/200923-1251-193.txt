@@ -1,1 +1,0 @@
-\frac { { \mbox { L } + L } } { { \mbox { z } - \mbox { M } } }

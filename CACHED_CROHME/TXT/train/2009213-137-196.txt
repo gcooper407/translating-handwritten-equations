@@ -1,1 +1,0 @@
-\sum _ { { E \geq c } } { { \mbox { p } + \mbox { R } } }

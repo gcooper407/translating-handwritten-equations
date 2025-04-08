@@ -1,1 +1,0 @@
-\frac { { \mbox { k } + \sqrt { \mbox { C } } } } { \mbox { m } }

@@ -1,1 +1,0 @@
-\lim_{r\rightarrow \infty}F(r) = 0

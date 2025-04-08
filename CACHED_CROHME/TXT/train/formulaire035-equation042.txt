@@ -1,1 +1,0 @@
-\lim_{x \rightarrow +\infty} a^x = 0

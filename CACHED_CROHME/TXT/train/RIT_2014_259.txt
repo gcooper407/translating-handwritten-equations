@@ -1,1 +1,0 @@
-- \sum \limits _ {i} P _ {i} \log _ {n} P _ {i}

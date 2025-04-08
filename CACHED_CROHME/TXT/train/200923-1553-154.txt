@@ -1,1 +1,0 @@
-{ \left ( { \mbox { i } - N } \right ) } ^ { { \mbox { f } + \left [ \mbox { P } \right ] } }

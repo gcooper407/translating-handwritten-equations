@@ -1,1 +1,0 @@
-x=\frac{e^{cr}}{ac}

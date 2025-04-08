@@ -1,1 +1,0 @@
-\sin \alpha \sin \beta = \frac{1}{2}[\cos( \alpha - \beta) - \cos( \alpha + \beta)]

@@ -1,1 +1,0 @@
-L_{ab}=x_a p_b -x_b p_a

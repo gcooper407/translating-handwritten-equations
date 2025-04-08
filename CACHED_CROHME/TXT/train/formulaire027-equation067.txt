@@ -1,1 +1,0 @@
-e^{\alpha t}\sin \beta t

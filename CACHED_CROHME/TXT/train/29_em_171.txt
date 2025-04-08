@@ -1,1 +1,0 @@
-\lim_{t \rightarrow c} a_1(t) = a_1

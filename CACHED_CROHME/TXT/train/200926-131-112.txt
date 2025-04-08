@@ -1,1 +1,0 @@
-\sqrt { { \mbox { c } + \sqrt { \mbox { b } } } }

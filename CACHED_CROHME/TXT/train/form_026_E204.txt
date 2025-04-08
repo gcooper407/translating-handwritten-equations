@@ -1,1 +1,0 @@
-\frac{dz}{z-P_1} - \frac{dz}{z-P_i}

@@ -1,1 +1,0 @@
-{ \mbox { C } \gt \sqrt { \mbox { q } } }

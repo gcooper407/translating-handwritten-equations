@@ -1,1 +1,0 @@
-\frac 1 a F ( a x + b ) + C

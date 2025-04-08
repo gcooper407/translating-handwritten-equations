@@ -1,1 +1,0 @@
-\sum_{n = 1}^{\infty} {( \frac{\sum_{i = 1}^{n} a_{i}}{n} )^{p}} \lt {( \frac{p}{p - 1} )^{p}} \sum_{n = 1}^{\infty} {a_{n}^{p}}

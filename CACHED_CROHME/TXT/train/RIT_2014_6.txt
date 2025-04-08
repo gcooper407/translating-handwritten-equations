@@ -1,1 +1,0 @@
-e ^ {m x} y = \frac {n} {m} e ^ {m x} + C

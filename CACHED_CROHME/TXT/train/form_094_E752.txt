@@ -1,1 +1,0 @@
-\int d^dx \sqrt{g}R^2

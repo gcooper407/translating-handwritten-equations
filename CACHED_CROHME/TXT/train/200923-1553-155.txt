@@ -1,1 +1,0 @@
-\int { \mbox { l } } ^ { \mbox { B } } d \beta

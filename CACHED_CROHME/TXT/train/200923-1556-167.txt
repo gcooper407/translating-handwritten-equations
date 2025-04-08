@@ -1,1 +1,0 @@
-\frac { { \frac { v } { \mbox { R } } { \mbox { v } } _ { d } } } { \mbox { R } }

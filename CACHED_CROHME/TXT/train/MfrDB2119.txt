@@ -1,1 +1,0 @@
-\int\limits_{0}^{P} \frac{2 x d x}{1 + {x^{2}}} = \log ( 1 + {R^{2}} )

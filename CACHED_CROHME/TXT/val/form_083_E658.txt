@@ -1,1 +1,0 @@
-\alpha_2 = 2 \sqrt{\frac{d-3}{d-4}}

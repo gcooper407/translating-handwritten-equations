@@ -1,1 +1,0 @@
-\frac { { N + 9 } } { \frac { B } { \mbox { S } } }

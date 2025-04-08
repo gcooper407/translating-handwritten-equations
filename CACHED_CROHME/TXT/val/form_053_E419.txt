@@ -1,1 +1,0 @@
-\sum |l_s| \geq \frac{5}{4}|k|

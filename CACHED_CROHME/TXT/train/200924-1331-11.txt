@@ -1,1 +1,0 @@
-\left [ \int u dc \right ]

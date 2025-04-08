@@ -1,1 +1,0 @@
-x=\sqrt{x_i x^i}

@@ -1,1 +1,0 @@
-f=\sum_n a_n q^n

@@ -1,1 +1,0 @@
-\frac { { w - \mbox { t } } } { \tan r }

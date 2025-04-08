@@ -1,1 +1,0 @@
-\cos x + \sqrt {- 1} \sin x

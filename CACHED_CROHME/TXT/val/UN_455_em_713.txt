@@ -1,1 +1,0 @@
-\Delta^{-1}=\int_0^1 dx x^{\Delta - 1}

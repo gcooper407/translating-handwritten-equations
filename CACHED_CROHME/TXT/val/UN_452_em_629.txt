@@ -1,1 +1,0 @@
-\lim_{r\rightarrow 0}c(r)

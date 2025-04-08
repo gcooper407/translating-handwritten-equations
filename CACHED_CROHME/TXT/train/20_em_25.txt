@@ -1,1 +1,0 @@
-\sin \left(x+y\right)=\sin x \cos y + \cos x \sin y

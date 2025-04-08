@@ -1,1 +1,0 @@
-{ \cdots + \frac { \mbox { e } } { \mbox { s } } }

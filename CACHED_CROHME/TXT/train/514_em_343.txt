@@ -1,1 +1,0 @@
--e^{x} \cos (x) + \int e^{x} \cos (x) dx

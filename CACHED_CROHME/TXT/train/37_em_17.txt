@@ -1,1 +1,0 @@
-a\sqrt b \pm c\sqrt b = \left( {a \pm c} \right)\sqrt b

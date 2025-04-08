@@ -1,1 +1,0 @@
-g_\theta = g  \sin\theta

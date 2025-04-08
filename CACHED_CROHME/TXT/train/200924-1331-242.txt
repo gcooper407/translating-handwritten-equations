@@ -1,1 +1,0 @@
-\left ( \int \mbox { h } dz \right )

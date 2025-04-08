@@ -1,1 +1,0 @@
-\sum _ { { v \geq l } } { \mbox { X } }

@@ -1,1 +1,0 @@
-\lim_{x \rightarrow \infty} \int_0^x e^{- y^2} d y = \frac {\sqrt \pi} 2

@@ -1,1 +1,0 @@
-m ( b - a ) \leq \int\limits_{a}^{b} f ( x ) dx \leq M ( b - a )

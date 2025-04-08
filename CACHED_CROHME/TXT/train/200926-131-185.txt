@@ -1,1 +1,0 @@
-\frac { { \mbox { X } + d } } { \left [ \mbox { I } \right ] }

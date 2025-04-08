@@ -1,1 +1,0 @@
-r_{min}=\frac{\sqrt{a}}{sn \sqrt{a} \frac { T}{4}}

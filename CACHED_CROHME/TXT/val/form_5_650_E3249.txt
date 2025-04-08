@@ -1,1 +1,0 @@
-\lambda =\pm \sqrt{\frac{B\pm\sqrt{B^2-4 C}}2}

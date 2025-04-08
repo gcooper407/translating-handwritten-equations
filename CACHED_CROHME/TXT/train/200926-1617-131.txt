@@ -1,1 +1,0 @@
-{ q \sum _ { { R \gt m } } { { \mbox { G } - z } } }

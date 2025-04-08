@@ -1,1 +1,0 @@
-\lim_{x \rightarrow a}f(x) = l

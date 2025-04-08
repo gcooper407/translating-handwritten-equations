@@ -1,1 +1,0 @@
-p(\theta) = (n+1) \sin\theta \cos^n\theta

@@ -1,1 +1,0 @@
-tg 2 x = \frac{2 tg x}{1 - tg^{2} x}

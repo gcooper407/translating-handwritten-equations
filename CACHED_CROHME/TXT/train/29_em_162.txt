@@ -1,1 +1,0 @@
-\frac{f \prime (x)}{g \prime (x)}

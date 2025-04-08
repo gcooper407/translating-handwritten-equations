@@ -1,1 +1,0 @@
-\frac{d cn(u)}{du} = -sn(u)dn(u)

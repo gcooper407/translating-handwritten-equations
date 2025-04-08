@@ -1,1 +1,0 @@
-\int dA_2 X_7=\int A_2 X_8

@@ -1,1 +1,0 @@
-\lim_{h \rightarrow 0} \frac{f(z+h)-f(z)}{h}

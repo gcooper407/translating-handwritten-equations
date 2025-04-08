@@ -1,1 +1,0 @@
-\cos(n \theta-\theta_n)\neq 0

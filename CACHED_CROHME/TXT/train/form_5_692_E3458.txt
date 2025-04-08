@@ -1,1 +1,0 @@
-\lim_{t\rightarrow\infty} |\gamma(t)|=\infty

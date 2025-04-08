@@ -1,1 +1,0 @@
-{ \mbox { r } \left ( \left ( \sum { F } \right ) \right ) }

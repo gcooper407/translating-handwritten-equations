@@ -1,1 +1,0 @@
-\frac {V}{T} = \frac {nR}{p}

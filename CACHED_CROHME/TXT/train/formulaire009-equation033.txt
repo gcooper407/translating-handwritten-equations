@@ -1,1 +1,0 @@
-(\cos(x)+i\sin(x))^n = \cos(nx)+i \sin(nx)

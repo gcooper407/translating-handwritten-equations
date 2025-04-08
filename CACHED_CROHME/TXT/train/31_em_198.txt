@@ -1,1 +1,0 @@
-\lim_{x \rightarrow -\infty} p_2(x)>0 \!

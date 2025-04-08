@@ -1,1 +1,0 @@
-\sin { \mbox { b } } ^ { { 7 - \mbox { g } } }

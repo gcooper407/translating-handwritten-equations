@@ -1,1 +1,0 @@
-(p,q) \gt (p^{\prime},q^{\prime})

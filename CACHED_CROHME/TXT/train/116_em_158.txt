@@ -1,1 +1,0 @@
-\tan \gamma_H=\tan H \sin \phi

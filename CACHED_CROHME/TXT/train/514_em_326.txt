@@ -1,1 +1,0 @@
-\frac{1}{6}\int \frac{u^6}{2} du + \frac{1}{6} \int \frac{2u^5}{2}

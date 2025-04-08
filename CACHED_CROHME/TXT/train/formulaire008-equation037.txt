@@ -1,1 +1,0 @@
-x=\beta_{3}y_{3}+\ldots+\beta_{n+1}y_{n+1}

@@ -1,1 +1,0 @@
-b \rightarrow \frac {1 }{ b }

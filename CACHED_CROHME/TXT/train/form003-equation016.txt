@@ -1,1 +1,0 @@
-\forall x \in E \exists y \in E xRy

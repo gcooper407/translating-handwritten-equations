@@ -1,1 +1,0 @@
-\int d^4x \sqrt{g} R + c V^{1/2}

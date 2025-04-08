@@ -1,1 +1,0 @@
-\tan[\frac{n}{2}\sigma]

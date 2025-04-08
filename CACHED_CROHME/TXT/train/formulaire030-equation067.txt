@@ -1,1 +1,0 @@
-\frac{dz}{dt} = b + z(x-c)

@@ -1,1 +1,0 @@
-\int {  -\cos \phi } d \phi

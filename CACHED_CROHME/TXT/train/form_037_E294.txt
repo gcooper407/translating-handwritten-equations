@@ -1,1 +1,0 @@
--\frac{d}{dx}\left(p(x)\frac{df(x)}{dx}\right)+v(x)f(x)=\lambda r(x)f(x)

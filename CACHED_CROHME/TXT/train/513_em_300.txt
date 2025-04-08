@@ -1,1 +1,0 @@
-\log_{a}xy = \log_{a}x + \log_{a}y

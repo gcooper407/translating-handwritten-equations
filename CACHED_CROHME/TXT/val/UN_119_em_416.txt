@@ -1,1 +1,0 @@
-(\sin\gamma,0,\cos\gamma)

@@ -1,1 +1,0 @@
-n = \frac{L}{2} \sqrt{\frac{t}{c_o} }

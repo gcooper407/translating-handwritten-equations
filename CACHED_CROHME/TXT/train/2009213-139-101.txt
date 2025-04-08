@@ -1,1 +1,0 @@
-{ { \mbox { k } - \mbox { a } } = { \mbox { h } - f } }

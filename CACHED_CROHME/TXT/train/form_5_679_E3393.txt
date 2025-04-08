@@ -1,1 +1,0 @@
-\left[t^a,t^b \right]=if^{ab}_c t^c

@@ -1,1 +1,0 @@
-\left| x - \frac{a}{b} \right| \leq \frac{1}{\sqrt 5 b^2}

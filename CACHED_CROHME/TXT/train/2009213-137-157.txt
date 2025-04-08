@@ -1,1 +1,0 @@
-{ { b } ^ { \mbox { h } } { \mbox { w } } _ { \mbox { m } } }

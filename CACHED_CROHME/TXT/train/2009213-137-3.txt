@@ -1,1 +1,0 @@
-\int _ { n } ^ { \alpha } Y dk

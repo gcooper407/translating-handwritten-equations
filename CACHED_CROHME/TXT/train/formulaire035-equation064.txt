@@ -1,1 +1,0 @@
-d_{1,0}^{1} = \frac{-\sin \theta}{\sqrt{2}}

@@ -1,1 +1,0 @@
-r = {\sqrt {x_{\alpha} x^{\alpha}} }

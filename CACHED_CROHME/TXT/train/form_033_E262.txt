@@ -1,1 +1,0 @@
--\alpha \sqrt{ i r(x)}

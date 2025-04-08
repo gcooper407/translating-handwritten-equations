@@ -1,1 +1,0 @@
-{ - { { \beta } _ { { \mbox { Cu } } _ { \mbox { F } } } b } }

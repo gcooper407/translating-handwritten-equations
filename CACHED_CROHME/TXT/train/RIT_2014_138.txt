@@ -1,1 +1,0 @@
-\frac {\frac {\sqrt {3}} {2}} {\frac {1} {2}} = \sqrt {3}

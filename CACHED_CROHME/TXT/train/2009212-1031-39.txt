@@ -1,1 +1,0 @@
-\mbox { i } \left ( \left [ 0 \right ] \right )

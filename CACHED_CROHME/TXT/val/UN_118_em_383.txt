@@ -1,1 +1,0 @@
-\frac{\sin \frac{k_1\times k_2}{2}}{\frac{k_1\times k_2}{2}}

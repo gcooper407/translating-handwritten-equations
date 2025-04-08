@@ -1,1 +1,0 @@
-g=ca^2\sin(\theta)

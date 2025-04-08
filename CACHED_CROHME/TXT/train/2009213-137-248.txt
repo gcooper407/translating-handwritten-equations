@@ -1,1 +1,0 @@
-\int _ { \mbox { w } } ^ { { \mbox { T } \mbox { m } } } \mbox { F } dP

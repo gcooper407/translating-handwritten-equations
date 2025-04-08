@@ -1,1 +1,0 @@
-2i\sin(\alpha)e^{i \alpha}-e^{2i \alpha}+1 = 0

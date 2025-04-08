@@ -1,1 +1,0 @@
-\sum a_k\theta_k=0

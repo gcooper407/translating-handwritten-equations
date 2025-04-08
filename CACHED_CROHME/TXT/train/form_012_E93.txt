@@ -1,1 +1,0 @@
-z^{\prime}=f(z)=\sum_{n} b_{n}z^{n}

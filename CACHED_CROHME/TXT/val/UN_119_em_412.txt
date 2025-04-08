@@ -1,1 +1,0 @@
-\lim_{x\rightarrow 1} p(x) B_n(x)

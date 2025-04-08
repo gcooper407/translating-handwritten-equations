@@ -1,1 +1,0 @@
-2\pi b(a+c)/\sqrt{ac}

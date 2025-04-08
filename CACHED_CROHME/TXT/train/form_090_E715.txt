@@ -1,1 +1,0 @@
-\left(n-2\right) \left( n-4\right) \ldots\left( 1\right) \times\left(n-2\right) \left( n-4\right) \ldots\left( 1\right)

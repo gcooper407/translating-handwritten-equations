@@ -1,1 +1,0 @@
-\mbox{Tr} \left( A^a A^b A^c A^d \right)

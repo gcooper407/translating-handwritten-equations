@@ -1,1 +1,0 @@
-\int^{\pi}_{0}\left(\sin(t)-t\right)dt=2-\frac{1}{2}\pi^2

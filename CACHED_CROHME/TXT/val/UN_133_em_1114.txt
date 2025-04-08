@@ -1,1 +1,0 @@
-y = \tan \frac{\mu}{2}

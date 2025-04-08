@@ -1,1 +1,0 @@
-\theta=\theta_1\pm\theta_2

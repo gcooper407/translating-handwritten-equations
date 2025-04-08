@@ -1,1 +1,0 @@
-{ \infty { \mbox { d } } _ { q } }

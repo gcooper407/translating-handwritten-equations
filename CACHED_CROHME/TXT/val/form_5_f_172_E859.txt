@@ -1,1 +1,0 @@
-\lim_{k\rightarrow0}k^2G(k)=\infty

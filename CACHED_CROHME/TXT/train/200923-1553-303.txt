@@ -1,1 +1,0 @@
-{ i + \frac { F } { \mbox { g } } }

@@ -1,1 +1,0 @@
-\int p_i dx_i

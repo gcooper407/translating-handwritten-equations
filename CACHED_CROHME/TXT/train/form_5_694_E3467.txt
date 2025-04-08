@@ -1,1 +1,0 @@
-\lim_{\gamma\rightarrow 0}S_{smm}=S_{NC}

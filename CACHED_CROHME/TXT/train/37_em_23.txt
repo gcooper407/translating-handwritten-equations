@@ -1,1 +1,0 @@
-\sum p_i = \sum p_f

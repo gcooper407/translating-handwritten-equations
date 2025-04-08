@@ -1,1 +1,0 @@
-\Delta x\Delta k \geq 1/2

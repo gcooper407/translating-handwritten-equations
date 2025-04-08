@@ -1,1 +1,0 @@
-2^{\frac{n-2}{n}}\left[\frac{B(1-n)}{C(3n-4)}\right]^{\frac{n-2}{2n}}

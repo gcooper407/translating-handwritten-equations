@@ -1,1 +1,0 @@
-V(\phi_x)={\frac{m^2}{\beta^2}}[1-\cos(\beta\phi_x)]

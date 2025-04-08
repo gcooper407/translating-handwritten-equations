@@ -1,1 +1,0 @@
-\sqrt{(\frac{\Delta x}{x})^2 + (\frac{\Delta y}{y})^2}

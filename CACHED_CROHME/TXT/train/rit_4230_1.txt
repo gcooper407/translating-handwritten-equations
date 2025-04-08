@@ -1,1 +1,0 @@
-\sin x \times \cos x

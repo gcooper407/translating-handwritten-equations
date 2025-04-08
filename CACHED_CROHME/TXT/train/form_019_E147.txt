@@ -1,1 +1,0 @@
-\gamma(\theta)=\gamma_1 \sin(\theta)+\gamma_2\cos(\theta)

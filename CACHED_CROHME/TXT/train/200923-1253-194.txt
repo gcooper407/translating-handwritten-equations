@@ -1,1 +1,0 @@
-{ { \mbox { G } - M } \leq \frac { I } { \pi } }

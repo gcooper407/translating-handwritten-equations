@@ -1,1 +1,0 @@
-T_{ij} = P a^2 \gamma_{ij}

@@ -1,1 +1,0 @@
-\frac{x_1}{\sqrt{\gamma}}+i\sqrt{\gamma}x_2

@@ -1,1 +1,0 @@
-{ \left [ \sum { \mbox { h } } \right ] \lt \sum { { f + n } } }

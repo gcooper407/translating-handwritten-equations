@@ -1,1 +1,0 @@
-\frac {da}{dc} = \frac {c}{a}

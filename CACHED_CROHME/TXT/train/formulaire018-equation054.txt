@@ -1,1 +1,0 @@
-\frac{d}{ds}c_n(f,s)=\frac{n}{s}c_n(f,s)

@@ -1,1 +1,0 @@
-\frac{m l^2 (\frac{d \theta}{d t})^2}{2}-m g l \cos(\theta) = -m g l \cos (\theta_0)

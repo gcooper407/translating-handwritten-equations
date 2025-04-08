@@ -1,1 +1,0 @@
-ax - by = 5t + by - by

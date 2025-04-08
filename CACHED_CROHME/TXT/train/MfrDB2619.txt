@@ -1,1 +1,0 @@
-\int\limits_{a}^{b} f ( x ) dx = F ( b ) - F ( a )

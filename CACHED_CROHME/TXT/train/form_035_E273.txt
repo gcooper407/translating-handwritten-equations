@@ -1,1 +1,0 @@
-\frac{y^a_n}{y^b_n}

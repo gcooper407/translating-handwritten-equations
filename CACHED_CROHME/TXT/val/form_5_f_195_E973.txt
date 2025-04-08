@@ -1,1 +1,0 @@
-\beta(e)=-\frac{e^{3}}{16\pi^{2}}\left(\frac{22}{3}-\frac{4N_{f}}{3}\right)

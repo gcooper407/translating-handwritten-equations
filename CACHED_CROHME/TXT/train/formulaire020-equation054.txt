@@ -1,1 +1,0 @@
-\frac{a_1+\ldots+a_n}{b_1+\ldots+b_n}

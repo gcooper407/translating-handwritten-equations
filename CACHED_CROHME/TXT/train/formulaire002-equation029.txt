@@ -1,1 +1,0 @@
-\frac{dx(t)}{dt} = f(x(t),t)

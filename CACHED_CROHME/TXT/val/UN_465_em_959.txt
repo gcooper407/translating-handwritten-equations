@@ -1,1 +1,0 @@
-\lim_{t\rightarrow 0} e^{-a/t}/t^n=0

@@ -1,1 +1,0 @@
-\sqrt{G(x,y)}=a^d(y)\sqrt{g(x)}

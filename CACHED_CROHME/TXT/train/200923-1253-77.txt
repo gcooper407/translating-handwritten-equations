@@ -1,1 +1,0 @@
-\sum _ { { I \geq j } } { { C - \mbox { g } } }

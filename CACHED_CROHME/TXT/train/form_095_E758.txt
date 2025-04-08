@@ -1,1 +1,0 @@
-\cos(x^p/\sqrt{2\alpha^{\prime}})

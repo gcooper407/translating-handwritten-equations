@@ -1,1 +1,0 @@
-lim x _ {x \rightarrow a} b = b

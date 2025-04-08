@@ -1,1 +1,0 @@
-\lim_{x \to \infty} ( \sqrt{n + 2} - \sqrt{n} ) = 0

@@ -1,1 +1,0 @@
-{ \cdots + \frac { t } { y } }

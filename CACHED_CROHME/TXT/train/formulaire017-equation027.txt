@@ -1,1 +1,0 @@
-\frac{d}{dt}e^{X(t)} = \int_{0}^{1} e^{(1-\alpha) X(t)} \frac{dX(t)}{dt} e^{\alpha X(t)}d\alpha

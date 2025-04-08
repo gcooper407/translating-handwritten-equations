@@ -1,1 +1,0 @@
-X(t) = \sum_n t^n X_n

@@ -1,1 +1,0 @@
-{ \cdots - { \cdots + { \mbox { k } } ^ { v } \left ( z \right ) } }

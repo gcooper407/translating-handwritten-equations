@@ -1,1 +1,0 @@
--\frac{\sin\alpha(\infty)}{2\pi}

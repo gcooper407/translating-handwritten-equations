@@ -1,1 +1,0 @@
-\int \left [ { \mbox { M } e } \right ] dh

@@ -1,1 +1,0 @@
-\lim_{X \rightarrow +\infty} \int_0^{X} f(x)dx

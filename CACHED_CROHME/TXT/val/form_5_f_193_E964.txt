@@ -1,1 +1,0 @@
-\lim_{N\rightarrow\infty}NP_N=|\alpha|^2

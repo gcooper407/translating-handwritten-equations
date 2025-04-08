@@ -1,1 +1,0 @@
-k_2=(E,-p \sin \theta,0,-p \cos \theta)

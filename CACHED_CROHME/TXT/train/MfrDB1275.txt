@@ -1,1 +1,0 @@
-\int\limits_{a}^{a} f ( x ) dx = 0

@@ -1,1 +1,0 @@
-\sum \frac{f(n)}{n^s}

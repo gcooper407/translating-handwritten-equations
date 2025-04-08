@@ -1,1 +1,0 @@
-\frac{df}{dx} = \frac{1}{\frac{dx}{df}}

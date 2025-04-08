@@ -1,1 +1,0 @@
-f(t)= \sum_{n-1}^{\infty} a_{n} t^{n}

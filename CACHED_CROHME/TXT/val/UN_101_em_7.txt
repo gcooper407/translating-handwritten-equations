@@ -1,1 +1,0 @@
-\lim_{p\rightarrow\infty}f_p=0

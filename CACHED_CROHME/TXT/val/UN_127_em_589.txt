@@ -1,1 +1,0 @@
-\beta = 2 \cos(\frac{\pi}{6}) = \sqrt 3

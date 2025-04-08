@@ -1,1 +1,0 @@
-\lim_{a \rightarrow +\infty} \int_0^{a}\frac{\sin(x)}{x} dx

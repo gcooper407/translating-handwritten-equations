@@ -1,1 +1,0 @@
-{ \left [ \left ( \mbox { e } \right ) \right ] } ^ { k }

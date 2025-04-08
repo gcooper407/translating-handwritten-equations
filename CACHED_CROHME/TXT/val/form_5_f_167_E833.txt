@@ -1,1 +1,0 @@
-\Delta=\frac{1}{2}+\frac{1}{4}\sqrt{E+32R+36}

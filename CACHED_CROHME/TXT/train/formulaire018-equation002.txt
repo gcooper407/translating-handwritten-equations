@@ -1,1 +1,0 @@
-\forall x\in X,(\alpha f)(x) = \alpha f(x)

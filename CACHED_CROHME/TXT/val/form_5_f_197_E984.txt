@@ -1,1 +1,0 @@
-B_B(m) = \sum_{n \gt 0} \pi(-n)\pi(n+m)

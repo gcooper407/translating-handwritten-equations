@@ -1,1 +1,0 @@
-\sum _ { { Y \geq \mbox { x } } } { { \left [ w \right ] + 2.0 } }

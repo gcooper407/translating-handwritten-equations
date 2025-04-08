@@ -1,1 +1,0 @@
-P_{CV} = \frac{C}{45} + (\frac{P}{40})\times 1.6

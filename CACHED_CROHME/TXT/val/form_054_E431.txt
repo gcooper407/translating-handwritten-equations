@@ -1,1 +1,0 @@
-f=\sum_nf_n y^n(x)=\sum_nf_n e^{i n x/R}

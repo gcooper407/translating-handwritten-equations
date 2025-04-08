@@ -1,1 +1,0 @@
-f_0(x) = \sum_k b_k(S_i) x^k

@@ -1,1 +1,0 @@
-\lim_{x \rightarrow +\infty}{g(x)} = 0

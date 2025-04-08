@@ -1,1 +1,0 @@
-I_2=\frac{1}{4}\sum_{ab}M_{ab}M^{ab}

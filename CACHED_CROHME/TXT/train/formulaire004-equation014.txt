@@ -1,1 +1,0 @@
-\lim_{x \rightarrow -\infty} \frac{1}{x^n} = \lim_{x \rightarrow +\infty} \frac{1}{x^n} = 0

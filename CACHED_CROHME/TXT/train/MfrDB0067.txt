@@ -1,1 +1,0 @@
-| \frac{1}{a_{n}} - \frac{1}{x} | = | \frac{1}{x a_{n}} | \cdot | a_{n} - x |

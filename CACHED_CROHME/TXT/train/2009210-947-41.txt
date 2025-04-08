@@ -1,1 +1,0 @@
-{ \mbox { e } - { \mbox { N } } _ { \mbox { L } } }

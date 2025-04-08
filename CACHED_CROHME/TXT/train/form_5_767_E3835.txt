@@ -1,1 +1,0 @@
-r=\sqrt{\sum_i |z_i|^2}

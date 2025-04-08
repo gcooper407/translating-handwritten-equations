@@ -1,1 +1,0 @@
-\frac{E}{m}=\frac{1} {\sqrt{1-v^2}}

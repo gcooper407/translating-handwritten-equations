@@ -1,1 +1,0 @@
-\int\limits_{0}^{R} \frac{2 x d x}{1 + {x^{2}}} = l o g ( 1 + {R^{2}} )

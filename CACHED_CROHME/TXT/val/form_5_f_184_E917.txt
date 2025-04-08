@@ -1,1 +1,0 @@
-\frac{1}{2 \sqrt{3}}\sigma + \frac{1}{2} \phi \geq 0

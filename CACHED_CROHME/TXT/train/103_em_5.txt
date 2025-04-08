@@ -1,1 +1,0 @@
-HR=\frac{P_{v}}{P_{v sat}}

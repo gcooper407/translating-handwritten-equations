@@ -1,1 +1,0 @@
-\lim_{n \to \infty} f ( x_{n} ) = f ( \lim_{n \to \infty} x_{n} )

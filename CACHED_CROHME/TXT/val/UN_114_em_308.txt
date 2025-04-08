@@ -1,1 +1,0 @@
--\frac{M^2}{4}\tan(\frac{p\pi}{2})

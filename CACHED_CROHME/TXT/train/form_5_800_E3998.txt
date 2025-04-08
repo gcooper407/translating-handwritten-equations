@@ -1,1 +1,0 @@
-F(X) = X + \alpha X f \left(\frac {X}{ M^4}\right)

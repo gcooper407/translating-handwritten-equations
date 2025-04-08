@@ -1,1 +1,0 @@
-\int\limits_{0}^{\infty} \sqrt{x} {e^{- x}} dx = \frac{\pi}{2}

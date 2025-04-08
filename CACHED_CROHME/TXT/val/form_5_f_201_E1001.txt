@@ -1,1 +1,0 @@
-\lim_{x\rightarrow-\infty}(d\phi/dx)=0

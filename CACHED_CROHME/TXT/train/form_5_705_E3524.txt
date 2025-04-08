@@ -1,1 +1,0 @@
-A=\frac{x}{n}f\left(\frac{kx}{n}\right)I_n(x)

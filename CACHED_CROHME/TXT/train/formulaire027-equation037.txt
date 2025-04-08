@@ -1,1 +1,0 @@
-d_{2,-1}^{2} = - \frac{1 - \cos \theta}{2} \sin \theta

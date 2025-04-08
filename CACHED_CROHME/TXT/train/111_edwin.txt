@@ -1,1 +1,0 @@
-\sqrt[n]{1} = \cos \frac{2k\pi}{n} + i \sin \frac{2k\pi}{n}

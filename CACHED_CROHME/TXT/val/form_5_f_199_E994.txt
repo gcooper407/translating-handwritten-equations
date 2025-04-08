@@ -1,1 +1,0 @@
-\mathrm{BCH}(x,y) = x + y + \frac{1}{2}[x,y] + \ldots

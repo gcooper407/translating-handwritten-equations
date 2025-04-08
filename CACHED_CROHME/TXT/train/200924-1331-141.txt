@@ -1,1 +1,0 @@
-{ \left ( t \right ) } ^ { \mbox { l } } \left ( I \right )

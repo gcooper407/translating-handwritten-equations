@@ -1,1 +1,0 @@
-{ \mbox { y } = \sum _ { { \mbox { e } \geq \mbox { R } } } { e } }

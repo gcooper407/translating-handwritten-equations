@@ -1,1 +1,0 @@
-\tan(\theta/2)\sin^2(\theta/2)

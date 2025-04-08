@@ -1,1 +1,0 @@
-\sin (4 x) = 4 \sin (x) \cos ^ {3} (x) - 4 \sin ^ {3} (x) \cos (x)

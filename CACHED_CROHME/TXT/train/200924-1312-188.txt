@@ -1,1 +1,0 @@
-\int _ { \sqrt { \sigma } } ^ { { - b } } { - \mbox { A } } d { \mbox { M } } _ { \mbox { s } }

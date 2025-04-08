@@ -1,1 +1,0 @@
-x_x^x + y_y^y + z_z^z - x - y - z

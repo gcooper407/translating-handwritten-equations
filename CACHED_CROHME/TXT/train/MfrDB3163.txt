@@ -1,1 +1,0 @@
-\cos^{3} y = \frac{1}{4} ( \cos 3 y + 3 \cos y )

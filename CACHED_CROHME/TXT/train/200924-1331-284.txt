@@ -1,1 +1,0 @@
-\frac { y } { { \mbox { l } } ^ { \mbox { H } } }

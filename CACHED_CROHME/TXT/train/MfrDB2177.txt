@@ -1,1 +1,0 @@
-\sqrt{\frac{1}{n} \sum_{k = 1}^{n} {( a_{k} )^{2}}} \geq \frac{1}{n} \sum_{k = 1}^{n} a_{k}

@@ -1,1 +1,0 @@
-\int _ { V } ^ { \gamma } \mbox { M } d \beta

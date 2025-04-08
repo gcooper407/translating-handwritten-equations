@@ -1,1 +1,0 @@
-\int d _ {X} = \int g t d t

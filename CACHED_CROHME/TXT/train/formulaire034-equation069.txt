@@ -1,1 +1,0 @@
-\frac{dp}{dt} = cp(1-p)-ep

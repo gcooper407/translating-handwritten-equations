@@ -1,1 +1,0 @@
-\lim_{n\rightarrow+\infty}\frac{b-a}{n}f(x_0)=0

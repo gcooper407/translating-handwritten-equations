@@ -1,1 +1,0 @@
-\frac { { \mbox { l } + \sum { h } } } { \mbox { z } \left ( b \right ) }

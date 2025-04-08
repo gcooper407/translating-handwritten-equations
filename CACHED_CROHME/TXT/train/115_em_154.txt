@@ -1,1 +1,0 @@
-b^{\prime}=\sum_{ij}\mu_{ij}a_{ij}

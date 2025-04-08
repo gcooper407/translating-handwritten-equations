@@ -1,1 +1,0 @@
-\frac { { \mbox { H } - { X - \mbox { x } } } } { \sqrt { G } }

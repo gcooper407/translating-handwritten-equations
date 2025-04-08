@@ -1,1 +1,0 @@
-e^{(t+u)a}=e^{ta}\times e^{ua}

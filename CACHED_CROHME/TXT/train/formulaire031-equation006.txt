@@ -1,1 +1,0 @@
-\log_a b = \frac{\log_c b}{\log_c a}

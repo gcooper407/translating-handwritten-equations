@@ -1,1 +1,0 @@
-\frac {\log _ {2} x} {\log _ {2} e} + \frac {\log _ {2} x} {\log _ {2} 10}

@@ -1,1 +1,0 @@
-p ( z ) = 3 \cdot ( z - a ) \cdot ( z - b ) \cdot ( z - c )

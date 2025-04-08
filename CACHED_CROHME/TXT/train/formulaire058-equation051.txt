@@ -1,1 +1,0 @@
-\frac{c}{d}-\frac{a}{b}=\frac{(bc-ad)}{bd}

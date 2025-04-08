@@ -1,1 +1,0 @@
-g_0(x)=\sqrt{w_0(x)} e^{i\alpha(x)}

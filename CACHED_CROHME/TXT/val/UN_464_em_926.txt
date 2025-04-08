@@ -1,1 +1,0 @@
-\tan M=\sin M/\cos M

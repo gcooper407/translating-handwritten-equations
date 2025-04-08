@@ -1,1 +1,0 @@
-{ v } ^ { \frac { \mbox { p } } { \mbox { m } } }

@@ -1,1 +1,0 @@
-| \frac{f ( h ) - f ( 0 )}{h} | = | h \cdot \sin \frac{1}{h} |

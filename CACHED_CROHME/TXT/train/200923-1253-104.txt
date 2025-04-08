@@ -1,1 +1,0 @@
-{ - { \frac { \mbox { Y } } { \mbox { t } } B } }

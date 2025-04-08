@@ -1,1 +1,0 @@
-H(x)=c\theta(x)+(c-2)\theta(-x)

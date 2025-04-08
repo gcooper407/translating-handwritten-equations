@@ -1,1 +1,0 @@
-{ \cdots - \int S d \sigma }

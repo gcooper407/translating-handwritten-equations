@@ -1,1 +1,0 @@
-{ \sqrt { g } } ^ { \left ( 1.1 \right ) }

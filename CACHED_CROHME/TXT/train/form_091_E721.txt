@@ -1,1 +1,0 @@
-(n+a, n+a+2 \mbox{ mod } 5)

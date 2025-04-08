@@ -1,1 +1,0 @@
-{ \mbox { Y } } ^ { { \cdots + \sqrt { Y } } }

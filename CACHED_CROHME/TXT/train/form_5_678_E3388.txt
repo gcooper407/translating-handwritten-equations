@@ -1,1 +1,0 @@
-f^{ab}=da^{ab}+a^{ac}a^{cb}

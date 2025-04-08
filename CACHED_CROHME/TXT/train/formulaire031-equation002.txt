@@ -1,1 +1,0 @@
-\lim_{x \rightarrow 0} x^x=1

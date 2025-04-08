@@ -1,1 +1,0 @@
-\frac{1}{x} + \int\limits_{0}^{\infty} \frac{1}{x} dx

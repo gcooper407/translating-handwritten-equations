@@ -1,1 +1,0 @@
-a^{ij} = g^{ik} g^{jl} a_{kl}

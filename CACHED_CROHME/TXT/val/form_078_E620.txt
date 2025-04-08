@@ -1,1 +1,0 @@
-\forall m,n\geq 1

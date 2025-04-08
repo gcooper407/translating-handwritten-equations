@@ -1,1 +1,0 @@
-\frac{T}{L} \log \frac{T}{L}

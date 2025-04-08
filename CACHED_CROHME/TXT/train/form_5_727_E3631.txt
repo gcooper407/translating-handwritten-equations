@@ -1,1 +1,0 @@
-\sqrt{r}+\sqrt{s}\geq 1

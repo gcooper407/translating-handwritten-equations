@@ -1,1 +1,0 @@
-\sqrt {a} \pm \sqrt {b} = \sqrt {a + b \pm 2 \sqrt {a b}}

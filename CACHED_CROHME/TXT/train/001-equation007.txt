@@ -1,1 +1,0 @@
-\forall y\in A

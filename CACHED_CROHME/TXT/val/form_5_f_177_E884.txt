@@ -1,1 +1,0 @@
-\frac{\log L}{2\pi}

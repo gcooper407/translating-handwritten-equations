@@ -1,1 +1,0 @@
-p=\frac{p_{\alpha} + p_{\beta}}{\sin \alpha + \sin \beta}

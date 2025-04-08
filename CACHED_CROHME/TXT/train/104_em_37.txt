@@ -1,1 +1,0 @@
-I_A \leq I_B \leq I_C

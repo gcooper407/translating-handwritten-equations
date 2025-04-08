@@ -1,1 +1,0 @@
-\phi_c(k)\sqrt{x(x+1)}

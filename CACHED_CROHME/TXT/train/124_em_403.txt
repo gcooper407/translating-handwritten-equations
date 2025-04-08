@@ -1,1 +1,0 @@
-w_k^2 = |z|\mathrm{e}^{i\theta} \mathrm{e}^{2i\pi k} = z

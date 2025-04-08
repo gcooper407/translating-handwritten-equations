@@ -1,1 +1,0 @@
-P_{l}(\cos{t}) P_{l}(\cos{\theta})

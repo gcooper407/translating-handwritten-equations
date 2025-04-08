@@ -1,1 +1,0 @@
-g(x)=\beta_{ab}x^ax^b

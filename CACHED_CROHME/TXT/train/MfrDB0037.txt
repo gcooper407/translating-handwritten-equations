@@ -1,1 +1,0 @@
-\int\limits_{- \infty}^{\infty} ( f ( x ) - x ) dx

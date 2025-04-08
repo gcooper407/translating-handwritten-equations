@@ -1,1 +1,0 @@
-{ \mbox { N } - \sum { \mbox { F } } }

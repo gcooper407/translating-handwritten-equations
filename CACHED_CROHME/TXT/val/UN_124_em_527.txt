@@ -1,1 +1,0 @@
--\frac{1}{2\pi} \sum_n\frac{P_n}{z-z_n}

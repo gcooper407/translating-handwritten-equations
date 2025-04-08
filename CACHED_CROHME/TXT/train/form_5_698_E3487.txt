@@ -1,1 +1,0 @@
-F[f]=\lim_{a\rightarrow 0}F_a[f]

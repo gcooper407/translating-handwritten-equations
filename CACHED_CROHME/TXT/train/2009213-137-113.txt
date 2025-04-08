@@ -1,1 +1,0 @@
-\frac { \mbox { i } } { \sqrt { R } }

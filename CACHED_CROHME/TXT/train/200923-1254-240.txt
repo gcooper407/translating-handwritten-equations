@@ -1,1 +1,0 @@
-\frac { { \Delta + \sum { \mbox { S } } } } { \sqrt { S } }

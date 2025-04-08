@@ -1,1 +1,0 @@
-\sin \theta = \frac{y}{\sqrt{x^2 + y^2}}

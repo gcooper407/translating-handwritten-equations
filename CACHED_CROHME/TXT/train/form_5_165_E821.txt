@@ -1,1 +1,0 @@
-z=\sqrt{\frac{\sigma}{2}}x

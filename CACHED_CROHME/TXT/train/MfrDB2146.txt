@@ -1,1 +1,0 @@
-\lim_{n \to \infty} {n^{\frac{1}{n}}} = 1

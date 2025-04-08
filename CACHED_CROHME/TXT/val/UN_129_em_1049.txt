@@ -1,1 +1,0 @@
-x=\sqrt{2c}\cos\theta

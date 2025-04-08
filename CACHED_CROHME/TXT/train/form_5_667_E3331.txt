@@ -1,1 +1,0 @@
-F^{10}=\frac{1}{2a}\left[-2(1+p)\theta \left(\frac{B_0}{b^2}\right)^{1+p}\right]^\frac{1}{1-p}

@@ -1,1 +1,0 @@
-\sqrt{t} =\sqrt{x-4}

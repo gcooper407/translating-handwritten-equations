@@ -1,1 +1,0 @@
-\sum { \left [ { t + { L - \mbox { G } } } \right ] }

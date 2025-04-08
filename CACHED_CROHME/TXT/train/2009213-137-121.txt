@@ -1,1 +1,0 @@
-\sqrt { { \cdots + { \mbox { i } } _ { \mbox { z } } } }

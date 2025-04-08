@@ -1,1 +1,0 @@
-x^9(t) = \cos \theta_4 t

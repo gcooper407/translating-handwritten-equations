@@ -1,1 +1,0 @@
-\frac{e}{\sqrt{2\pi}}

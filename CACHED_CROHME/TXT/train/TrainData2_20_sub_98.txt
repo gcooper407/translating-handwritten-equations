@@ -1,1 +1,0 @@
-\lim_{x \rightarrow \frac{1}{4}} \frac{1 - 4^{x - \frac{1}{4}}}{1 - 4 x}

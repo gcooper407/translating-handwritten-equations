@@ -1,1 +1,0 @@
-q=\sum_{i=1}^sl_i^2-\left(\sum_{i=s+1}^rl_i^2\right)

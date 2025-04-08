@@ -1,1 +1,0 @@
-\frac{C_{pA}^kC_{qA}^{n-k}}{C_A^n}

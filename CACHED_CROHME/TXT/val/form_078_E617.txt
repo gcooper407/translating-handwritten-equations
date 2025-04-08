@@ -1,1 +1,0 @@
-S_{LL}(\theta),S_{RR}(\theta ),S_{RL}(\theta ),S_{LR}(\theta )

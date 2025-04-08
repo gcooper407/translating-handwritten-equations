@@ -1,1 +1,0 @@
-\theta=\lim_mn_m/s_m

@@ -1,1 +1,0 @@
-\exists i, C_1[i] < C_2[i]

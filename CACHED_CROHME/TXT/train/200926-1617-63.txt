@@ -1,1 +1,0 @@
-{ \mbox { q } \left ( H \right ) } ^ { { \cdots + A } }

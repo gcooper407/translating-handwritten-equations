@@ -1,1 +1,0 @@
-\lim_{x \rightarrow 0} \frac {( 1 - \cos x ) ( 1 + \cos x )} {x^2 ( 1 + \cos x )}

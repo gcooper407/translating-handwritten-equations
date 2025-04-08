@@ -1,1 +1,0 @@
-tr(ab)\neq tr(ba)

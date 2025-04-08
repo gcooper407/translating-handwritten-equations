@@ -1,1 +1,0 @@
-sin [x + y] = [sin x \cos y + \cos x sin y]

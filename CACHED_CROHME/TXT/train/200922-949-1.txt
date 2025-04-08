@@ -1,1 +1,0 @@
-\int _ { 0 } ^ { \infty } \frac { z } { \sqrt { z ^ 3 + 14 } } d z

@@ -1,1 +1,0 @@
-\int\limits_{0}^{1} \sqrt{x} dx

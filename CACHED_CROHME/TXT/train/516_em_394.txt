@@ -1,1 +1,0 @@
-\int f(ax) dx = \frac{1}{a} \int f(x)  dx

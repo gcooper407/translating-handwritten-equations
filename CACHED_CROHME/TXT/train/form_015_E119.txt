@@ -1,1 +1,0 @@
-\frac{269\sqrt{\pi}}{8192}\frac{\alpha}{R^3}

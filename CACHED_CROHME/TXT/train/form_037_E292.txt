@@ -1,1 +1,0 @@
-P = \int dz \sqrt{G_{ij} d\phi^i /dz d\phi^j/dz}

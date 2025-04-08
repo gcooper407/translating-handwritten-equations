@@ -1,1 +1,0 @@
-y\times y^{\prime}-x\times x^{\prime}\geq 0

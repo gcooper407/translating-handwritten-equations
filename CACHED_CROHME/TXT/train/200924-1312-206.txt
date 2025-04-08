@@ -1,1 +1,0 @@
-\frac { { N + m } } { { \mbox { B } } _ { \mbox { p } } }

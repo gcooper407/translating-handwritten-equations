@@ -1,1 +1,0 @@
-N_n=\frac{\pi}{2\sqrt{kr_c}}x_n e^{-kr_c\pi}

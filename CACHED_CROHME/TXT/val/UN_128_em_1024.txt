@@ -1,1 +1,0 @@
-\frac{{q^2 \sqrt \pi}}{{2g}}\sqrt {\frac{a - 1}{{a}}}

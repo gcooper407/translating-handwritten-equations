@@ -1,1 +1,0 @@
-a \geq \left(\frac{n-3}{n-1}\right)\left(\frac{2}{(n-1)c} \right)^{\frac{2}{n-3}}

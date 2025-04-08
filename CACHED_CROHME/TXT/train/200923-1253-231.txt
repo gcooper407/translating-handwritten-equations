@@ -1,1 +1,0 @@
-\frac { \sqrt { V } } { \mbox { h } }

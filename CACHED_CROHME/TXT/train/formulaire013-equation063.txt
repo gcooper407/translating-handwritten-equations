@@ -1,1 +1,0 @@
-\frac1{g(y)} \frac{dy}{dx} = f(x)

@@ -1,1 +1,0 @@
-\cos (\sigma) > 1 - 2 (\frac {\sigma} {2}) ^ {2} = 1 - \frac {\sigma ^ {2}} {2}

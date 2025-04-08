@@ -1,1 +1,0 @@
-\frac { { \frac { \mbox { p } } { n } + v } } { { - \mbox { H } } }

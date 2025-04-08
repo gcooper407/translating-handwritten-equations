@@ -1,1 +1,0 @@
-x^{\pm j}=\frac{1}{\sqrt{2}}(x^{2j+2}\pm ix^{2j+3})

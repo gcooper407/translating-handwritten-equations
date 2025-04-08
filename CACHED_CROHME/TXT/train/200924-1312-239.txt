@@ -1,1 +1,0 @@
-\sqrt { { \beta - { \mbox { Y } } _ { \mbox { k } } } }
